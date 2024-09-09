@@ -108,8 +108,12 @@ body {
     @apply col-span-1 rounded-lg bg-black-200 border border-black-300;
   }
 
+  /*.work-content {*/
+  /*  @apply col-span-2 rounded-lg bg-black-200 border border-black-300;*/
+  /*}*/
+
   .work-content {
-    @apply col-span-2 rounded-lg bg-black-200 border border-black-300;
+    @apply w-full rounded-lg bg-black-200 border border-black-300;
   }
 
   .work-content_container {
